@@ -8,5 +8,5 @@ A desktop timer widget built with React, Electron, and Tailwind CSS.
 - Reset functionality
 - Frame-less window
 - Transparent background
-- Fixed time for each HIT APP
+- Fixed time for each HIT APP.
 
